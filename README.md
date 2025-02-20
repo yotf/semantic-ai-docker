@@ -14,7 +14,7 @@ A web application that searches and compares results from PubMed and Semantic Sc
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yotf/semantic-ai-docker.git
 cd semantic-ai-docker
 ```
 
